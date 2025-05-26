@@ -1,0 +1,24 @@
+quiz:
+  - question: "What is the capital of France?"
+    options:
+      - "Paris"
+      - "Berlin"
+      - "Madrid"
+      - "Rome"
+    answer: "Paris"
+
+  - question: "Which language is primarily spoken in Brazil?"
+    options:
+      - "Spanish"
+      - "Portuguese"
+      - "French"
+      - "Italian"
+    answer: "Portuguese"
+
+  - question: "Who wrote 'Romeo and Juliet'?"
+    options:
+      - "William Shakespeare"
+      - "Charles Dickens"
+      - "Mark Twain"
+      - "Jane Austen"
+    answer: "William Shakespeare"
