@@ -1,0 +1,22 @@
+questions:
+  - question: "What is the capital of France?"
+    options:
+      - Paris
+      - Berlin
+      - Madrid
+      - Rome
+    answer: Paris
+  - question: "Which planet is known as the Red Planet?"
+    options:
+      - Venus
+      - Mars
+      - Jupiter
+      - Saturn
+    answer: Mars
+  - question: "Who wrote the play 'Romeo and Juliet'?"
+    options:
+      - Charles Dickens
+      - William Shakespeare
+      - Mark Twain
+      - Jane Austen
+    answer: William Shakespeare
